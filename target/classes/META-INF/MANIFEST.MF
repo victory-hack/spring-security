@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Built-By: vic
+Build-Jdk: 10.0.2
+Implementation-Title: SpringSecurityCustomizeAuthenticationSuccessHand
+ ler
+Implementation-Version: 0.0.1
+Implementation-Vendor-Id: com.javasampleapproach.springsecurity.authen
+ ticationhandler
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/SpringSecuri
+ tyCustomizeAuthenticationSuccessHandler/
+Created-By: Maven Integration for Eclipse
+
